@@ -1,0 +1,12 @@
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.csprojAssemblyReference.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.frmInicial.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.frmAlunos.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.Properties.Resources.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.csproj.GenerateResource.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\bin\Debug\Atividade_AlunoProfessor.exe.config
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\bin\Debug\Atividade_AlunoProfessor.exe
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\bin\Debug\Atividade_AlunoProfessor.pdb
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.frmProfessores.resources
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.exe
+C:\Users\Luigi\Desktop\GitHub\Atividade_AlunoProfessor\Atividade_AlunoProfessor\obj\Debug\Atividade_AlunoProfessor.pdb
